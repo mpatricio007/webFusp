@@ -195,8 +195,6 @@
         <div class="container">
             <div class="loginDisplay">
 
-            
-              
               
 
                 <asp:LoginView ID="HeadLoginView" runat="server" >
@@ -213,7 +211,7 @@
                         </div>
                     </LoggedInTemplate>
                 </asp:LoginView>
-              
+                
             </div>
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
             </asp:ContentPlaceHolder>

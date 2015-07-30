@@ -49,7 +49,9 @@
             <h5>Membros</h5>
               <p>Antonio Roque Dechen (CO), 2009/ </p>
               <p>Diná de Almeida Lopes Monteiro da Cruz (CO), 2013/</p>
-              <p>José Carlos Pereira (CO), 2013/</p>
+              <p>Geraldo Roberto Martins, 2014/</p>
+              <p>Gerson Aparecido Yukio Tomanari, 2014/</p>
+
 
             <p>José Eduardo Krieger, 2014/</p>        
             <p>José Roberto Drugowich de Felício, 2014/</p>
@@ -87,6 +89,7 @@
                <p>João Lúcio de Azevedo, 1994/1994                         </p>
                <p>Joaquim José de Camargo Engler, 1995/2014                </p>
                <p>José Antunes Rodrigues 1996/2003                         </p>
+               <p>José Carlos Pereira (CO), 2013/2014</p>
                <p>Jurandyr Povinelli, 2000/2003                            </p>
                <p>Luis Carlos de Menezes, 1992/1993                        </p>
                <p>Luiz Nunes de Oliveira, 2002/2005                        </p>               
@@ -115,15 +118,16 @@
         </div>
         <div class="modal-body">
 
+            <p>Alberto Borges Maia, 2014 </p>
             <p>Antonio Evaldo Comune, 2010 </p>
             <p>Reinaldo Guerreiro, 2012 </p>
-            <p>Sigismundo Bialoskorski Neto, 2012</p>
             <h4>GESTÕES ANTERIORES</h4>
 
             <p>Hermes Marcelo Huck, 2004/2008 </p>
             <p>Eliseu Martins, 2004/2006 - 2008/2012</p>
             <p>Iran Siqueira Lima, Presidente - 2006/2010 </p>
             <p>Geraldo Francisco Burani, 2008/2012</p>
+            <p>Sigismundo Bialoskorski Neto, 2012/2014</p>
         </div>
         <div class="modal-footer">
             <button class="btn btn-primary" data-dismiss="modal" aria-hidden="true">Fechar</button>

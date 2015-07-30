@@ -92,7 +92,7 @@
                                         <li><a href="conheca.aspx">Conheça a FUSP</a></li>
                                         <li><a href="regulamento.aspx">Regulamento</a></li>
                                         <li><a href="homologacao.aspx">Homologação</a></li>
-                                        <li><a href="boletim.aspx">Boletim FUSP</a></li>
+                                       
 
                                     </ul>
                                     <li class="divider-vertical"></li>
@@ -112,10 +112,16 @@
                                         <li><a href="fundosusp.aspx">Fundos USP</a></li>
                                         <li><a href="recolhimentounid.aspx">Recolhimento Unidades</a></li>
                                         <li><a href="bolsas.aspx">Programa de Bolsas</a></li>
-                                        <li><a href="noticias.aspx">Notícias</a></li>
                                     </ul>
                                     <li class="divider-vertical"></li>
                             </ul>
+
+                            <ul class="nav">
+                                <li>
+                                    <li><a href="noticias.aspx">Notícias</a></li>
+                                </li>
+                                <li class="divider-vertical"></li>
+                            </ul> 
 
                             <ul class="nav">
                                 <li>

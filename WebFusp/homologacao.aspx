@@ -16,7 +16,6 @@
                 <li><a href="#c11" data-toggle="tab">Comunicados 2011</a></li>
                 <li><a href="#c10" data-toggle="tab">Comunicados 2010</a></li>
                 <li><a href="#c9" data-toggle="tab">Comunicados 2009</a></li>
-                <li><a href="#c8" data-toggle="tab">Comunicados 2008</a></li>
                 
             </ul>
             <div class="tab-content">
@@ -45,7 +44,6 @@
                 <div class="tab-pane active" id="comunicados">
                    
                     <ul>
-                    <li><a href="http://fusp.org.br/doctos/Homologacao2008.pdf" target="_blank">Comunicados 2008</a></li>
                     <li><a href="http://fusp.org.br/doctos/Homologacao2009.pdf" target="_blank">Comunicados 2009</a></li>
                     <li><a href="http://fusp.org.br/doctos/Homologacao2010.pdf" target="_blank">Comunicados 2010</a></li>
                     <li><a href="http://fusp.org.br/doctos/Homologacao2011.pdf" target="_blank">Comunicados 2011</a></li>

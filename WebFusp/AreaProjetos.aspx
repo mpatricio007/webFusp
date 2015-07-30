@@ -85,10 +85,9 @@ Para se ter acesso ao Sistema, é necessário o cadastramento prévio dos usuár
                 <div class="tab-pane" id="lA">
                     <h4>APRESENTAÇÃO</h4>
                       <ul>
+                    <li><a href="http://fusp.org.br/doctos/AA0_O_que_e_a_FUSP.pdf" target="_blank">O que é a FUSP</a></li>
 
-                    <li><a href="http://fusp.org.br/lerarquivo.php?nomea=AA0_O_que_e_a_FUSP.pdf" target="_blank">O que é a FUSP</a></li>
-
-                            <li><a href="http://fusp.org.br/lerarquivo.php?nomea=NP01_REG01_Esclarecimentos_NPs.pdf" target="_blank">Esclarecimentos sobre Normas e Procedimentos FUSP (NPs)_NP01_REG01</a></li><b></b>
+                            <li><a href="http://fusp.org.br/doctos/NP01_REG01_Esclarecimentos_NPs.pdf" target="_blank">Esclarecimentos sobre Normas e Procedimentos FUSP (NPs)_NP01_REG01</a></li><b></b>
 
                     </ul>
                 </div>
@@ -96,13 +95,13 @@ Para se ter acesso ao Sistema, é necessário o cadastramento prévio dos usuár
                     <h4>INSTRUÇÕES PARA ABERTURA DE PROJETO</h4>
                     <ul>
 
-                            <li><a href="http://fusp.org.br/lerarquivo.php?nomea=NP02_INFUSP01_Como%20Elaborar%20Proposta_IN01.pdf" target="_blank">Como Elaborar Propostas/Orçamentos de Projetos NP02_INFUSP01_IN01</a></li>
+                            <li><a href="http://fusp.org.br/doctos/NP02_INFUSP01_Como%20Elaborar%20Proposta_IN01.pdf" target="_blank">Como Elaborar Propostas/Orçamentos de Projetos NP02_INFUSP01_IN01</a></li>
                         <br/>
                             <li><b>NP03_Tabelas Consultas</b></li><br/>
 
                                 <ul>
 
-                                    <li><a href="http://fusp.org.br/lerarquivo.php?nomea=NP03_TAB02_%20CERT_credenciamento_IN01.pdf" target="_blank">CERT credenciamento_NP03_TAB02</a></li>
+                                    <li><a href="http://fusp.org.br/doctos/NP03_TAB02_%20CERT_credenciamento_IN01.pdf" target="_blank">CERT credenciamento_NP03_TAB02</a></li>
 
 
 
@@ -115,23 +114,23 @@ Para se ter acesso ao Sistema, é necessário o cadastramento prévio dos usuár
 
                                 <ul>
 
-                                    <li><a href="http://fusp.org.br/lerarquivo.php?nomea=NP04_A00_Procedimentos_Abertura%20de%20Projetos_IN01.pdf" target="_blank">Procedimentos de Abertura de Projetos_NP04_A00</a></li>
+                                    <li><a href="http://fusp.org.br/doctos/NP04_A00_Procedimentos_Abertura%20de%20Projetos_IN01.pdf" target="_blank">Procedimentos de Abertura de Projetos_NP04_A00</a></li>
 
                                         <ul>
 
-                                            <li><a href="http://fusp.org.br/lerarquivo.php?nomea=NP04_A01_Solicita%E7%E3o_de_Abertura_de_Projeto.doc" target="_blank">Solicitação de Abertura de Projeto_NP04_A01</a></li>
+                                            <li><a href="http://fusp.org.br/doctos/NP04_A01_Solicita%E7%E3o_de_Abertura_de_Projeto.doc" target="_blank">Solicitação de Abertura de Projeto_NP04_A01</a></li>
 
-                                            <li><a href="http://fusp.org.br/lerarquivo.php?nomea=NP04_A02_Acordo%20de%20Trabalho_IN02.doc" target="_blank">Acordo de Trabalho_NP04_A02</a></li>
+                                            <li><a href="http://fusp.org.br/doctos/NP04_A02_Acordo%20de%20Trabalho_IN02.doc" target="_blank">Acordo de Trabalho_NP04_A02</a></li>
 
-                                            <li><a href="http://fusp.org.br/lerarquivo.php?nomea=NP04_A03_Termo%20de%20Gerenciamento.doc" target="_blank">Termo de Compromisso de Gerenciamento de Projeto NP04_A03</a></li>
+                                            <li><a href="http://fusp.org.br/doctos/NP04_A03_Termo%20de%20Gerenciamento.doc" target="_blank">Termo de Compromisso de Gerenciamento de Projeto NP04_A03</a></li>
 
-                                            <li><a href="http://fusp.org.br/lerarquivo.php?nomea=NP04_A04_Descri%E7%E3o_Sucinta_do_Projeto_IN02.doc" target="_blank">Descrição Sucinta do Projeto_NP04_A04</a></li>
+                                            <li><a href="http://fusp.org.br/doctos/NP04_A04_Descri%E7%E3o_Sucinta_do_Projeto_IN02.doc" target="_blank">Descrição Sucinta do Projeto_NP04_A04</a></li>
 
-                                            <li><a href="http://fusp.org.br/lerarquivo.php?nomea=NP04_A05_Controle_Financeiro_de_Projetos_IN02.doc" target="_blank">Controle Financeiro de Projeto_NP04_A05</a></li>
+                                            <li><a href="http://fusp.org.br/doctos/NP04_A05_Controle_Financeiro_de_Projetos_IN02.doc" target="_blank">Controle Financeiro de Projeto_NP04_A05</a></li>
 
-                                            <li><a href="http://fusp.org.br/lerarquivo.php?nomea=NP04_A06_Cartao_de_Assinaturas_IN02.doc" target="_blank">Cartão de Assinaturas_NP04_A06</a></li>
+                                            <li><a href="http://fusp.org.br/doctos/NP04_A06_Cartao_de_Assinaturas_IN02.doc" target="_blank">Cartão de Assinaturas_NP04_A06</a></li>
 
-                                            <li><a href="http://fusp.org.br/lerarquivo.php?nomea=NP04_A07_Cadastro%20Projetos_IN01.doc" target="_blank">Cadastro de Projeto_NP04_A07</a></li>
+                                            <li><a href="http://fusp.org.br/doctos/NP04_A07_Cadastro%20Projetos_IN01.doc" target="_blank">Cadastro de Projeto_NP04_A07</a></li>
 
                                         </ul>
 
@@ -140,7 +139,7 @@ Para se ter acesso ao Sistema, é necessário o cadastramento prévio dos usuár
 
                                 <ul>
 
-                                    <li><a href="http://fusp.org.br/lerarquivo.php?nomea=NP10_C00_Abertura_Projetos%20de%20Cursos.pdf" target="_blank">Procedimentos de Abertura de Projetos de Cursos NP10_C00</a></li>
+                                    <li><a href="http://fusp.org.br/doctos/NP10_C00_Abertura_Projetos%20de%20Cursos.pdf" target="_blank">Procedimentos de Abertura de Projetos de Cursos NP10_C00</a></li>
 
 
                 </div>
@@ -148,13 +147,13 @@ Para se ter acesso ao Sistema, é necessário o cadastramento prévio dos usuár
                     <h4>PROCEDIMENTOS</h4>
                  <ul>
 
-                     <li><a href="http://fusp.org.br/lerarquivo.php?nomea=NP02_INFUSP02_Obten%E7%E3o_de_Senha_IN01.doc" target="_blank">Obtenção de Senha</a></li>
+                     <li><a href="http://fusp.org.br/doctos/NP02_INFUSP02_Obten%E7%E3o_de_Senha_IN01.doc" target="_blank">Obtenção de Senha</a></li>
 
-                     <li><a href="http://fusp.org.br/lerarquivo.php?nomea=NP02_INFUSP00_Procedimentos_Adm_IN01.pdf" target="_blank">Procedimentos_Administrativos_NP02_INFUSP00</a></li>
-			         <li><a href="http://fusp.org.br/lerarquivo.php?nomea=Formulario_Cadastro.doc" target="_blank">Atualização dados Cadastrais</a></li>   
-                     <ul>
-				              <li><a href="http://fusp.org.br/lerarquivo.php?nomea=Vademecum_AMAM-29nov.pdf" target="_blank">Vademecum</a></li>
-			</ul>
+                     <li><a href="http://fusp.org.br/doctos/NP02_INFUSP00_Procedimentos_Adm_IN01.pdf" target="_blank">Procedimentos_Administrativos_NP02_INFUSP00</a></li>
+
+                     
+				              <li><a href="http://fusp.org.br/doctos/Vademecum_AMAM-29nov.pdf" target="_blank">Vademecum</a></li>
+			
                 </ul>
 
                 </div>
@@ -177,18 +176,18 @@ devidamente preenchido e assinado.
 <p>Clique no Boletim de Frequencia do mês desejado e faça a sua impressão</p>
 
   <ul>
-      <li><a href=http://www.fusp.org.br/imprimirbf.php?mes=1&ano=2014 target="_blank" >Janeiro/2014</a></li>
-      <li><a href=http://www.fusp.org.br/imprimirbf.php?mes=2&ano=2014 target="_blank" >Fevereiro/2014</a></li>
-      <li><a href=http://www.fusp.org.br/imprimirbf.php?mes=3&ano=2014 target="_blank" >Marco/2014</a></li>
-      <li><a href=http://www.fusp.org.br/imprimirbf.php?mes=4&ano=2014 target="_blank" >Abril/2014</a></li>
-      <li><a href=http://www.fusp.org.br/imprimirbf.php?mes=5&ano=2014 target="_blank" >Maio/2014</a></li>
-      <li><a href=http://www.fusp.org.br/imprimirbf.php?mes=6&ano=2014 target="_blank" >Junho/2014</a></li>
-      <li><a href=http://www.fusp.org.br/imprimirbf.php?mes=7&ano=2014 target="_blank" >Julho/2014</a></li>
-      <li><a href=http://www.fusp.org.br/imprimirbf.php?mes=8&ano=2014 target="_blank" >Agosto/2014</a></li>
-      <li><a href=http://www.fusp.org.br/imprimirbf.php?mes=9&ano=2014 target="_blank" >Setembro/2014</a></li>
-      <li><a href=http://www.fusp.org.br/imprimirbf.php?mes=10&ano=2014 target="_blank" >Outubro/2014</a></li>
-      <li><a href=http://www.fusp.org.br/imprimirbf.php?mes=11&ano=2014 target="_blank" >Novembro/2014</a></li>
-      <li><a href=http://www.fusp.org.br/imprimirbf.php?mes=12&ano=2014 target="_blank" >Dezembro/2014</a></li>
+      <li><a href=http://www.fusp.org.br/imprimirbf.php?mes=1&ano=2015 target="_blank" >Janeiro/2015</a></li>
+      <li><a href=http://www.fusp.org.br/imprimirbf.php?mes=2&ano=2015 target="_blank" >Fevereiro/2015</a></li>
+      <li><a href=http://www.fusp.org.br/imprimirbf.php?mes=3&ano=2015 target="_blank" >Marco/2015</a></li>
+      <li><a href=http://www.fusp.org.br/imprimirbf.php?mes=4&ano=2015 target="_blank" >Abril/2015</a></li>
+      <li><a href=http://www.fusp.org.br/imprimirbf.php?mes=5&ano=2015 target="_blank" >Maio/2015</a></li>
+      <li><a href=http://www.fusp.org.br/imprimirbf.php?mes=6&ano=2015 target="_blank" >Junho/2015</a></li>
+      <li><a href=http://www.fusp.org.br/imprimirbf.php?mes=7&ano=2015 target="_blank" >Julho/2015</a></li>
+      <li><a href=http://www.fusp.org.br/imprimirbf.php?mes=8&ano=2015 target="_blank" >Agosto/2015</a></li>
+      <li><a href=http://www.fusp.org.br/imprimirbf.php?mes=9&ano=2015 target="_blank" >Setembro/2015</a></li>
+      <li><a href=http://www.fusp.org.br/imprimirbf.php?mes=10&ano=2015 target="_blank" >Outubro/2015</a></li>
+      <li><a href=http://www.fusp.org.br/imprimirbf.php?mes=11&ano=2015 target="_blank" >Novembro/2015</a></li>
+      <li><a href=http://www.fusp.org.br/imprimirbf.php?mes=12&ano=2015 target="_blank" >Dezembro/2015</a></li>
   </ul>
 
 
@@ -203,12 +202,10 @@ devidamente preenchido e assinado.
                      são custeadas por recursos financeiros do próprio projeto em que o bolsista estiver vinculado
                      para desenvolver suas atividades.</p>
 
-                     <p>Antes da contratação do bolsista, o Coordenador do Projeto deverá consultar previamente a sua
-                        viabilidade junto ao Setor de Bolsas da FUSP, utilizando o <a href="http://demonstrativo.fusp.org.br/lerarquivo.php?nomea=NP08_BOL02_Consulta_Previa_Concessao_de_Bolsas_IN01.pdf" target="_blank">formulário Consulta Prévia_Concessão
-                          de Bolsas</a></p>
+                     
 
                      <p>As modalidades e suas descrições, bem como duração e requisitos estão detalhadamente dispostos 
-                         na <a href="http://demonstrativo.fusp.org.br/lerarquivo.php?nomea=NP08_BOL00_Programa%20de%20Bolsas_Instru%E7%F5es%20Gerais.pdf" target="_blank">NP08_BOL00_PROGRAMA DE BOLSAS FUSP.</a> </p>
+                         na <a href="http://demonstrativo.fusp.org.br/doctos/NP08_BOL00_Programa%20de%20Bolsas_Instru%E7%F5es%20Gerais.pdf" target="_blank">NP08_BOL00_PROGRAMA DE BOLSAS FUSP.</a> </p>
                 </div>
                 
                 </div> <!-- /tabbable -->

@@ -68,6 +68,8 @@
     <Content Include="boletim.aspx" />
     <Content Include="BolsaEstudantes.aspx" />
     <Content Include="bolsas.aspx" />
+    <Content Include="CentralDeRelacionameto.aspx" />
+    <Content Include="CentroDeSimulacao.aspx" />
     <Content Include="Conheca.aspx" />
     <Content Include="ConhecaParaImpressao.aspx" />
     <Content Include="contato.aspx" />
@@ -142,6 +144,7 @@
     <Content Include="Controles\ListaTelefones.ascx" />
     <Content Include="Controles\NestedControles\Telefone.ascx" />
     <Content Include="Controles\NestedControles\Texto.ascx" />
+    <Content Include="DiabetesEcancer.aspx" />
     <Content Include="doacao06.aspx" />
     <Content Include="doacao07.aspx" />
     <Content Include="doacao08.aspx" />
@@ -159,7 +162,9 @@
     <Content Include="doacao99.aspx" />
     <Content Include="EsqueceuSenha.aspx" />
     <Content Include="favicon.ico" />
+    <Content Include="FundacaoSeOrganiza.aspx" />
     <Content Include="Fundosusp.aspx" />
+    <Content Include="FuspReestruturaProcessos.aspx" />
     <Content Include="graficorecursos.aspx" />
     <Content Include="historico.aspx" />
     <Content Include="homologacao.aspx" />
@@ -167,13 +172,18 @@
     <Content Include="licitacao.aspx" />
     <Content Include="Login.aspx" />
     <Content Include="MasterPage.master" />
+    <Content Include="MudancasNaFUSP.aspx" />
     <Content Include="noticias.aspx" />
+    <Content Include="ObservatórioDeRemocoes.aspx" />
     <Content Include="oqueafusp.aspx" />
     <Content Include="Projetos.aspx" />
     <Content Include="Recolhimentounid.aspx" />
     <Content Include="Regulamento.aspx" />
     <Content Include="Scripts\FixFocus.js" />
     <Content Include="pdfemword.docx" />
+    <Content Include="conhecaFusp.pdf" />
+    <Content Include="conhecaFusp_old.pdf" />
+    <Content Include="pdfemword.pdf" />
     <None Include="Scripts\jquery-1.4.1-vsdoc.js" />
     <Content Include="Scripts\jquery-1.4.1.js" />
     <Content Include="Scripts\jquery-1.4.1.min.js" />
@@ -265,6 +275,8 @@
     <Content Include="Styles\img\fotobanner4.jpg" />
     <Content Include="Styles\img\glyphicons-halflings-white.png" />
     <Content Include="Styles\img\glyphicons-halflings.png" />
+    <Content Include="Styles\img\img.PNG" />
+    <Content Include="Styles\img\jardim.jpg" />
     <Content Include="Styles\img\loading2.gif" />
     <Content Include="Styles\img\search-128.png" />
     <Content Include="Styles\img\Search-256.png" />

@@ -11,7 +11,7 @@
 
                 <ul class="nav nav-tabs">
                     <li class="active"><a href="#Pg" data-toggle="tab">Programa de Bolsa FUSP</a></li>
-                    <li><a href="#Tb" data-toggle="tab">Tabela</a></li>
+                   <!-- <li><a href="#Tb" data-toggle="tab">Tabela</a></li> -->
                     <li><a href="#In" data-toggle="tab">Informativo</a></li>
                 </ul>
                 <div class="tab-content">
@@ -59,10 +59,7 @@
                     <div class="tab-pane" id="Tb">
                         <h4>TABELA DE MODALIDADES E VALORES DE BOLSAS FUSP</h4>
                         
-                        <p>
-                            <iframe src="http://demonstrativo.fusp.org.br/doctos/NP08_BOL01_Tabela de Valores.pdf" width="100%" height="600" class="su-document"></iframe>
-                            <em><a title="Download do regulamento" href="http://demonstrativo.fusp.org.br/doctos/NP08_BOL01_Tabela de Valores.pdf" target="_blank">Fazer download em formato PDF</a></em>
-                        </p>
+                        
                     </div>
 
                     <div class="tab-pane" id="In">
