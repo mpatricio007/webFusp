@@ -150,7 +150,7 @@ namespace WebFusp.BLL
 
                             if (sendmail.Send())
                             {
-                                var ipBLL = new AbstractCrudWithLog<InscricaoPregao>();
+                                var ipBLL = new InscricaoPregaoBLL();
                                 ipBLL.Get(ip.id_inscricao_pregao);
                                 System.Web.HttpContext.Current.Session["id_inscricao_pregao"] = ipBLL.ObjEF.id_inscricao_pregao;
                                 ipBLL.ObjEF.senha = SecurityBLL.GetSha1Hash(pass);

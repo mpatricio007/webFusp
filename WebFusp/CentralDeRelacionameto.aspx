@@ -6,7 +6,7 @@
     <div class="container-fluid">
         <div class="row-fluid">
             <div class="span12">
-                <img src="" style="width:70%; height: 170px; border-radius: 20px 0px 20px 0px; margin-left: 15%"/>
+                <img src="Styles/img/img.PNG" style="width:70%; height: 170px; border-radius: 20px 0px 20px 0px; margin-left: 15%"/>
                 
                 
                 <div class="well" style="width: 67%; margin-left: 15%; border-radius: 0px 20px 0px 20px;">
