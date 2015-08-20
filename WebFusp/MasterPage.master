@@ -91,31 +91,11 @@
                                     <ul class="dropdown-menu">
                                         <li><a href="conheca.aspx">Conheça a FUSP</a></li>
                                         <li><a href="regulamento.aspx">Regulamento</a></li>
-                                        <li><a href="homologacao.aspx">Homologação</a></li>
-                                       
-
                                     </ul>
                                     <li class="divider-vertical"></li>
                             </ul>
 
-                            <ul class="nav">
-                                <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Atuação
-             <b class="caret"></b>
-                                    </a>
-                                    <ul class="dropdown-menu">
-                                        <li><a href="projetos.aspx">Projetos</a></li>
-                                        <li><a href="apoios.aspx">Apoio à USP</a></li>
-                                        <li><a href="apoioUsp.aspx">Apoio para Projetos USP</a></li>
-                                        <li><a href="graficorecursos.aspx">Gráfico Recursos para a USP</a></li>
-                                        <li><a href="bolsaestudantes.aspx">Bolsas para Estudantes</a></li>
-                                        <li><a href="fundosusp.aspx">Fundos USP</a></li>
-                                        <li><a href="recolhimentounid.aspx">Recolhimento Unidades</a></li>
-                                        <li><a href="bolsas.aspx">Programa de Bolsas</a></li>
-                                    </ul>
-                                    <li class="divider-vertical"></li>
-                            </ul>
-
+                        
                             <ul class="nav">
                                 <li>
                                     <li><a href="noticias.aspx">Notícias</a></li>

@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Web;
-using System.Web.UI;
-using System.Web.UI.HtmlControls;
 using System.Web.UI.WebControls;
 using WebFusp.BLL;
 using WebFusp.DAL;
@@ -43,7 +39,7 @@ namespace WebFusp
         {
             StringBuilder str = new StringBuilder();
             int cont = 0;
-            foreach (var item in ctx.StatusEditaisLics.OrderBy(it => it.ordem).ToList())
+            foreach (var item in ctx.StatusEditaisLics.Where(k => k.id_status_edital_lic == 5).OrderBy(it => it.ordem).ToList())
             {
                 if (cont == 0 & filterByTab == 0)
                     filterByTab = item.id_status_edital_lic;

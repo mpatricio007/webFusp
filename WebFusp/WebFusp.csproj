@@ -167,7 +167,7 @@
     <Content Include="FuspReestruturaProcessos.aspx" />
     <Content Include="graficorecursos.aspx" />
     <Content Include="historico.aspx" />
-    <Content Include="homologacao.aspx" />
+    <None Include="homologacao.aspx" />
     <Content Include="InscricaoPregoes.aspx" />
     <Content Include="licitacao.aspx" />
     <Content Include="Login.aspx" />
